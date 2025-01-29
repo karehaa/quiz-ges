@@ -1,0 +1,40 @@
+body {
+    background-color: palevioletred;
+}
+
+h1 {
+    color: white;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.answer_container {
+    display: flex;
+    gap: 30px;
+}
+
+.button {
+    color: black;
+    width: 150px;
+    height: 50px;
+    padding: 5px;
+}
+
+#gak_button {
+    position: absolute;
+    left: 150px;
+    top: 150px;
+}
+
+#y_button {
+    color: black;
+    width: 150px;
+    height: 50px;
+    padding: 5px;
+}
