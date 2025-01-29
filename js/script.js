@@ -15,11 +15,11 @@ window.addEventListener('DOMContentLoaded', () => {
 });
 
 window.addEventListener('DOMContentLoaded', () => {
-    const gas_button = document.getElementById('gas_button').onclick = function () {location.href = 'q1.html'};
+    const gas_button = document.getElementById('gas_button').onclick = function () {location.href = 'html/q1.html'};
 });
 
 window.addEventListener('DOMContentLoaded', () => {
-    const gmw_button = document.getElementById('gmw_button').onclick = function () {location.href = 'pendek.html'};
+    const gmw_button = document.getElementById('gmw_button').onclick = function () {location.href = 'html/pendek.html'};
 });
 
 window.addEventListener('DOMContentLoaded', () => {
