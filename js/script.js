@@ -27,9 +27,9 @@ window.addEventListener('DOMContentLoaded', () => {
 });
 
 window.addEventListener('DOMContentLoaded', () => {
-    const y_button = document.getElementById('y_button').onclick = function () {location.href = 'index.html'};
+    const y_button = document.getElementById('y_button').onclick = function () {location.href = '../index.html'};
 });
 
 window.addEventListener('DOMContentLoaded', () => {
-    const back_button = document.getElementById('back_button').onclick = function () {location.href = 'index.html'};
+    const back_button = document.getElementById('back_button').onclick = function () {location.href = '../index.html'};
 });
